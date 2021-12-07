@@ -1,0 +1,24 @@
+G is 10
+total_iterations is 100
+time taken for training: 29.516111013000003
+time taken for training: 29.441280603000003
+time taken for training: 31.307016160999993
+time taken for training: 31.65956877299999
+time taken for training: 31.760752930999985
+time taken for training: 31.671772413000014
+time taken for training: 31.937698906999998
+time taken for training: 31.998788590000004
+time taken for training: 32.11172236099998
+time taken for training: 32.23819896200001
+time taken for training: 32.18989841400003
+time taken for training: 32.38757033300004
+time taken for training: 32.247141801
+time taken for training: 32.75704940999998
+time taken for training: 32.56739819799998
+time taken for training: 32.36878573800004
+time taken for training: 32.29872772900001
+time taken for training: 32.329633019000084
+
+ISO_DD crossover results: Final robust acc 30.90909090909091, Final standard acc 87.04
+SBX crossover results: Final robust acc 18.181818181818183, Final standard acc 9.8
+Linear Combination (alpha=0.5) results: Final robust acc 30.90909090909091, Final standard acc 81.64

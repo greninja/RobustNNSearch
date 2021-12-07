@@ -1,0 +1,400 @@
+
+ Standard test accuracy: 93% (9392/10000)
+
+ Robust test accuracy: 25% (14/55)
+
+ Standard test accuracy: 94% (9432/10000)
+
+ Robust test accuracy: 30% (17/55)
+
+ Standard test accuracy: 95% (9526/10000)
+
+ Robust test accuracy: 23% (13/55)
+
+ Standard test accuracy: 95% (9523/10000)
+
+ Robust test accuracy: 30% (17/55)
+
+ Standard test accuracy: 95% (9570/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9595/10000)
+
+ Robust test accuracy: 27% (15/55)
+
+ Standard test accuracy: 95% (9593/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9552/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9591/10000)
+
+ Robust test accuracy: 30% (17/55)
+
+ Standard test accuracy: 95% (9573/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9592/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 96% (9620/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9591/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 96% (9608/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9583/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9574/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 96% (9606/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 96% (9616/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9576/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 96% (9603/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9588/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9591/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 96% (9610/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9570/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9597/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9591/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 96% (9604/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9598/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9574/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9578/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9553/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 96% (9607/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9548/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9591/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9578/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9574/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9599/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9555/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9594/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9586/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9576/10000)
+
+ Robust test accuracy: 30% (17/55)
+
+ Standard test accuracy: 95% (9561/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9592/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9590/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 96% (9600/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9594/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9595/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9581/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9566/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9578/10000)
+
+ Robust test accuracy: 38% (21/55)
+
+ Standard test accuracy: 95% (9585/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9564/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9568/10000)
+
+ Robust test accuracy: 38% (21/55)
+
+ Standard test accuracy: 95% (9560/10000)
+
+ Robust test accuracy: 38% (21/55)
+
+ Standard test accuracy: 95% (9581/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9562/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9571/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9571/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9573/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9572/10000)
+
+ Robust test accuracy: 38% (21/55)
+
+ Standard test accuracy: 95% (9575/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9581/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9576/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9582/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9513/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9574/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9592/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9582/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9573/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9569/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9557/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9566/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9569/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9566/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9568/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9553/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9533/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9574/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9571/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9544/10000)
+
+ Robust test accuracy: 38% (21/55)
+
+ Standard test accuracy: 95% (9537/10000)
+
+ Robust test accuracy: 38% (21/55)
+
+ Standard test accuracy: 95% (9550/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9529/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9562/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9571/10000)
+
+ Robust test accuracy: 32% (18/55)
+
+ Standard test accuracy: 95% (9545/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9533/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9573/10000)
+
+ Robust test accuracy: 29% (16/55)
+
+ Standard test accuracy: 95% (9538/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9566/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9556/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9550/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9544/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9547/10000)
+
+ Robust test accuracy: 34% (19/55)
+
+ Standard test accuracy: 95% (9568/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9554/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9551/10000)
+
+ Robust test accuracy: 38% (21/55)
+
+ Standard test accuracy: 95% (9550/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9546/10000)
+
+ Robust test accuracy: 36% (20/55)
+
+ Standard test accuracy: 95% (9543/10000)
+
+ Robust test accuracy: 32% (18/55)

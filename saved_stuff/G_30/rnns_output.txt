@@ -1,0 +1,63 @@
+G is 30
+total_iterations is 100
+time taken for training: 28.214674558999995
+time taken for training: 28.57353253
+time taken for training: 29.575056248000003
+time taken for training: 30.118608121999998
+time taken for training: 30.53739576199999
+time taken for training: 31.059755034999995
+time taken for training: 30.762675135999984
+time taken for training: 30.182840700000014
+time taken for training: 30.951538019000026
+time taken for training: 30.963272198000027
+time taken for training: 31.040631754999993
+time taken for training: 31.26680734399997
+time taken for training: 31.252647841999988
+time taken for training: 31.563619894999988
+time taken for training: 30.90517030699999
+time taken for training: 31.611547308000013
+time taken for training: 31.25534926299997
+time taken for training: 31.056991479999965
+time taken for training: 32.13256074699996
+time taken for training: 32.34241387700001
+time taken for training: 32.2935241859999
+time taken for training: 32.158972436
+time taken for training: 32.24179198499996
+time taken for training: 31.779686702999925
+time taken for training: 32.460535487000016
+time taken for training: 32.07441104899999
+time taken for training: 32.713963467999974
+time taken for training: 32.564510224999935
+time taken for training: 32.79771479400006
+time taken for training: 32.35017783500007
+time taken for training: 32.53503235900007
+time taken for training: 32.61549616499997
+time taken for training: 32.42201955099995
+time taken for training: 32.12903199599987
+time taken for training: 32.65376081799991
+time taken for training: 32.65026519699995
+time taken for training: 32.48111929300012
+time taken for training: 32.516852124000025
+time taken for training: 32.208683960999906
+time taken for training: 32.516633211
+time taken for training: 32.119697064999855
+time taken for training: 32.25346184299997
+time taken for training: 32.54583790700008
+time taken for training: 32.548564022999926
+time taken for training: 32.521825743000136
+time taken for training: 32.59495909899988
+time taken for training: 32.27985458100011
+time taken for training: 32.36254649700004
+time taken for training: 32.88657286700004
+time taken for training: 32.704819778
+time taken for training: 32.703036255999905
+time taken for training: 32.89205987299988
+time taken for training: 32.36491243699993
+time taken for training: 32.879252408999946
+time taken for training: 33.152581233999854
+time taken for training: 32.6399303180001
+time taken for training: 32.455532425
+time taken for training: 32.53403493199994
+ISO_DD crossover results: Final robust acc 40.0, Final standard acc 91.79
+SBX crossover results: Final robust acc 18.181818181818183, Final standard acc 25.05
+Linear Combination (alpha=0.5) results: Final robust acc 18.181818181818183, Final standard acc 47.23

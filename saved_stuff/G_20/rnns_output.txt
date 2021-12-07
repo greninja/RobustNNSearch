@@ -1,0 +1,44 @@
+G is 20
+total_iterations is 100
+time taken for training: 29.383233153000003
+time taken for training: 29.498531473000007
+time taken for training: 31.210441425
+time taken for training: 32.08743946400001
+time taken for training: 31.75026789399999
+time taken for training: 32.103433822
+time taken for training: 31.563881844999997
+time taken for training: 31.950798495000015
+time taken for training: 31.791726675999996
+time taken for training: 32.38812139699996
+time taken for training: 32.275993148
+time taken for training: 32.33126035699996
+time taken for training: 32.36947234799999
+time taken for training: 32.46480218099998
+time taken for training: 32.391946218999976
+time taken for training: 32.55203455900005
+time taken for training: 32.636444549999965
+time taken for training: 32.59187999000005
+time taken for training: 32.734274346999996
+time taken for training: 32.77825478800003
+time taken for training: 32.686743829999955
+time taken for training: 32.71202759199991
+time taken for training: 32.65851811799996
+time taken for training: 32.80185776999997
+time taken for training: 32.258497885
+time taken for training: 32.69204998999999
+time taken for training: 32.66181609700004
+time taken for training: 32.91884442100002
+time taken for training: 32.82822105299999
+time taken for training: 32.49030985799993
+time taken for training: 32.835528643999965
+time taken for training: 32.518724408000026
+time taken for training: 32.774408494
+time taken for training: 32.87466809700004
+time taken for training: 32.99117454199995
+time taken for training: 33.033510553999804
+time taken for training: 32.562852683000074
+time taken for training: 32.73024388099998
+
+ISO_DD crossover results: Final robust acc 32.72727272727273, Final standard acc 78.08
+SBX crossover results: Final robust acc 7.2727272727272725, Final standard acc 29.21
+Linear Combination (alpha=0.5) results: Final robust acc 27.272727272727273, Final standard acc 57.89
